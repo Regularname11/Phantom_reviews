@@ -1,8 +1,7 @@
 #  Phantom reviews
 ### link: https://regularname11.github.io/Phantom_reviews/index.html
-
+---
 ## Screenshots
-### desktop:
 ![image](https://github.com/Regularname11/Phantom_reviews/assets/78084972/8120dff0-80db-46a8-8414-0f8eed87a8b2)
 ![image](https://github.com/Regularname11/Phantom_reviews/assets/78084972/b25f9cff-963f-410f-8d9f-fd31a8894c7a)
 ![image](https://github.com/Regularname11/Phantom_reviews/assets/78084972/ff48b0ab-c3d9-4adb-9077-02ecdab1678b)
