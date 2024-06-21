@@ -1,4 +1,4 @@
-#  Phanton reviews
+#  Phantom reviews
 ### link: https://regularname11.github.io/Phantom_reviews/index.html
 
 ## Screenshots
